@@ -12,6 +12,8 @@
 // @include 			http://*.github.com/*
 // @include 			https://*.github.com/*
 // @run-at 				document-start
+// @license 			GNU General Public License v3.0
+// @original-license	CC0 1.0 Universal (CC0 1.0) - Public Domain Dedication
 // @version 			0.20181126
 // ==/UserScript==
 (function() {var css = [
