@@ -293,8 +293,12 @@
 	"	box-shadow: 2px 0 0 rgb(160, 180, 200) inset !important",
 	"}",
 	".notification-indicator .mail-status {",
-	"	background: rgb(222, 80, 220) !important;",
-	"	border-color: #1d1d1d !important",
+	"	background: rgb(255, 0, 0) !important;
+    "	border-color: #1d1d1d !important;
+    "	height: 10px;",
+    "	width: 10px;",
+    "	top: -3px;",
+	" 	left: 7px;",
 	"}",
 	"::selection {",
 	"	background-color: #93bcd1 !important;",
